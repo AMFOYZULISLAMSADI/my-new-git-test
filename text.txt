@@ -1,3 +1,5 @@
 working directory > stagging area > local repository > remote repository
 
 first-project      > git add      > git commit       > git push
+
+git restore <filename.ext> help to go back to the previous position
